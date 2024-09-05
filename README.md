@@ -45,6 +45,8 @@ Elasticsearch is a powerful search and analytics engine that enables the fast an
    - Navigate to the official Elasticsearch download page.
    - Change the download option to `deb` for `x86_64`.
    - Right-click on the download link and select **Copy Link Address**.
+![Download Elastic Search](https://raw.githubusercontent.com/Virus192/Day-3-Building-a-Secure-Elasticsearch-Deployment/main/images/photo_5960977688871158766_w.jpg)
+
 
 2. **Download Elasticsearch to Your Server:**
 
